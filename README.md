@@ -1,6 +1,6 @@
 # RandomForest Project
 
-This repository contains implementations of Random Forest models for classification, regression, and hyperparameter tuning using Jupyter Notebooks.
+This repository contains comprehensive implementations of Random Forest models, demonstrating their application in classification, regression, and hyperparameter tuning. Each implementation is provided in Jupyter Notebooks, making it easier to understand, modify, and execute step-by-step. The notebooks include detailed explanations, code snippets, and visualizations to help users grasp the concepts of Random Forest algorithms and their practical usage.
 
 ## Project Structure
 ```
